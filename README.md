@@ -11,6 +11,7 @@
 
 ###
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=Morriyaty&theme=rose_pine&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" />
+https://cn.widgetstore.net/view/index.html?q=be7662ce6345671300af04a84030f947.0c8dca0464059c250014a476386a8346
 <!--
 **Morriyaty/Morriyaty** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
