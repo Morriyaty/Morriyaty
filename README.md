@@ -15,11 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img src="https://swg.notion.pet/s/bg-93e4b6a06405903f032098f50c975d04" style="min-width:100px;width:650px;min-height:100px;height:200px">
+<img src="https://swg.notion.pet/s/bg-93e4b6a06405903f032098f50c975d04" style="min-width:100px;width:650px;min-height:100px;height:200px" />
 
 📫 How to reach me: wangyinjia16@lzu.edu.cn
 🔭 I’m currently working on ... ha? JUST WORKING AND GENSHIN
 🌱 I’m currently learning TE in zokers
 ⚡ Fun fact: RAIDENSHOGUN 😄😄😄
 
-<img src="https://swg.notion.pet/s/2cc84e26640597890322d20e31b4ac77" style="min-width:100px;width:320px;min-height:100px;height:320px">
+<img src="https://swg.notion.pet/s/2cc84e26640597890322d20e31b4ac77" style="min-width:100px;width:320px;min-height:100px;height:320px" />
