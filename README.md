@@ -12,7 +12,7 @@ Congratulation! My ![Visitor Count](https://profile-counter.glitch.me/Morriyaty/
 - 🌱 I’m currently learning TE in zokers
 - ⚡ Fun fact: RAIDENSHOGUN 😄😄😄
 
-## About my activity
+## :zap: About my activity
 <!--START_SECTION:activity-->
 
 
