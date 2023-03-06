@@ -14,7 +14,6 @@ Congratulation! My ![Visitor Count](https://profile-counter.glitch.me/Morriyaty/
 
 ## :zap: About my activity
 <!--START_SECTION:activity-->
-
 <!--END_SECTION:activity-->
 
 ## About my GitHub
