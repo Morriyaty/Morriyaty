@@ -12,7 +12,11 @@ Congratulation! My ![Visitor Count](https://profile-counter.glitch.me/Morriyaty/
 - 🌱 I’m currently learning TE in zokers
 - ⚡ Fun fact: RAIDENSHOGUN 😄😄😄
 
-##
+## About my activity
+<!--START_SECTION:activity-->
+
+
+## About my GitHub
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=Morriyaty&theme=rose_pine&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" />
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Morriyaty)](https://github.com/Morriyaty/github-readme-stats)
